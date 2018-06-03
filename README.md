@@ -1,4 +1,7 @@
-# BugInUICollectionViewForIOS
+# Bug In UICollectionView For IOS
+
+EDIT: The bug finally resolved in iOS 11.0!!
+
 bug in horizontal collection view
 
 When you have a collection view, that scrolls horizontally, and you use "scrollToItemAtIndexPath", it works when your environment is a LeftToRight language
